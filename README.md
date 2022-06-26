@@ -1,5 +1,5 @@
 # Hospital-Management-System
-##MAIN PARTS OF THE CODE THAT NEED EXPLAINING
+## MAIN PARTS OF THE CODE THAT NEED EXPLAINING
 1) **#include<fstream.h>**: Used for the file stream which has capabilities of both “ofstream” and “ifstream” i.e., it can create files, write information to files, and read information from files.
 2) **#include<conio.h>**: Used for functions like clrscr(),getch(),delay(),gotoxy() etc.
 3) **#include<string>**: Used for functions like strcmp() etc.
