@@ -35,4 +35,4 @@ There is a list file as well as the patient file which records the diseases of t
 •	HOMEPAGE 
  ![image](https://user-images.githubusercontent.com/80753977/175810380-8c51b90a-5a99-4b2a-8d9e-e03b3e55aa2a.png)
  
- 
+ https://github.com/pahadiaarun/Hospital-Management-System/blob/main/Output/Output.pdf
