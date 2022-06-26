@@ -10,3 +10,6 @@
 8) **Sleep Function**: The **sleep ()** function causes the program or the process in which it is called, to suspend its execution temporarily for some time in seconds specified by the function parameter. Execution is suspended until the requested time is elapsed or a signal or an interrupt is delivered to the function.However, if the system has scheduled any other activity, then the suspension time may be longer.
 9) **System Function**: Using **system()**, we can execute any command that can run on the terminal if the operating system allows. Like in this program we have used a system to provide an attractive background color to the output screen. So we used an alike system(“Color 5F”) in which Color is providing color to the output screen, the user 5 is to provide background color (range is from 0 to 9) and F (range is from A to F) provides the text color.
   ![image](https://user-images.githubusercontent.com/80753977/175810117-caa77eb3-e854-4709-8096-08557d69b0b7.png)
+
+  ## LOGIC OF THE PROGRAM:
+  
