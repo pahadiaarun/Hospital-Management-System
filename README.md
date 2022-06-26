@@ -18,4 +18,21 @@ Talking about the features of the Hospital Management System, after logging in a
   
 There is a list file as well as the patient file which records the diseases of the patients are suffering from and the treatment provided with the bill with date and time. We also used the common thing used in all computers to enter username and password which will be only accessible to the one on the job of handling the patient’s record and we also inserted a for loop to enter the password in the form of “*” so that the password can be secured. 
   
-
+## FLOW CHART
+  The flowcharts have been presented for:
+  - **LOGIN PAGE/HOMEPAGE**
+  ![image](https://user-images.githubusercontent.com/80753977/175810240-030df675-93bf-4e7a-a8ed-0fed2ebb445a.png)
+  - **DEPARTMENT CHOICES**
+  ![image](https://user-images.githubusercontent.com/80753977/175810288-94ae63f8-1c9a-4a77-9781-38be0fe22872.png)
+  
+  
+  ## OUTPUT:
+  
+ Front Page: 
+•	ADMIN LOGIN PAGE 
+ ![image](https://user-images.githubusercontent.com/80753977/175810372-167d2596-b0b6-4a03-9ca4-e6e40cbcd6bc.png)
+ 
+•	HOMEPAGE 
+ ![image](https://user-images.githubusercontent.com/80753977/175810380-8c51b90a-5a99-4b2a-8d9e-e03b3e55aa2a.png)
+ 
+ 
